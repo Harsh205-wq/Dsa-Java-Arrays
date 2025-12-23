@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problem6 {
+public class CreateSpiral {
      static void printMatrix(int [][] matrix){
         for (int i = 0; i < matrix.length; i++) { // i = row number
             for (int j = 0; j < matrix[i].length; j++) { // j = column number

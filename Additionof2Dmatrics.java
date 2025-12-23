@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problem {
+public class Additionof2Dmatrics {
 
     static void printmatrix(int [][] matrix){
         for (int i = 0; i < matrix.length; i++) { // i = row number

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problem3 {
+public class Rotate2D_by90deg {
     static void printMatrix(int [][] matrix){
         for (int i = 0; i < matrix.length; i++) { // i = row number
             for (int j = 0; j < matrix[i].length; j++) { // j = column number

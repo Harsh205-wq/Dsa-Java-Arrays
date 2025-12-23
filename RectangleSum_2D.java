@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problem7 {
+public class RectangleSum_2D {
 
     static int findsum(int [][]matrix,int l1,int r1,int l2,int r2){
 
